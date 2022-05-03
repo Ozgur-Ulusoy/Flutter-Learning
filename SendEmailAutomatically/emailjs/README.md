@@ -1,6 +1,6 @@
-# mailer_package
+# EmailJS
 
-A new Flutter project.
+How to send automatically email =>
 
 ## Getting Started
 
