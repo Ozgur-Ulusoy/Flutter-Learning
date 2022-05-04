@@ -1,4 +1,4 @@
 # EmailJS
 
-How to send automatically email - using emailjs -
+How to send automatically email -- using emailjs --
 ## https://www.emailjs.com
