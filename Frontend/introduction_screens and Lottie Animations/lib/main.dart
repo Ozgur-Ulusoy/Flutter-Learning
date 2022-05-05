@@ -81,7 +81,9 @@ class _AnaEkranState extends State<AnaEkran> {
                   child: SmoothPageIndicator(
                       controller:
                           _pageController, //* başta belirttiğimiz kontrollerımız
-                      count: 3 //* 3 sayfa olacak
+                      count: 3, //* 3 sayfa olacak
+                      effect:
+                          const JumpingDotEffect() //* atlama efektlerini özel olarak seçebiliyoruz
                       ),
                 ),
                 //? index son sayfadaysa sonraki sayfa yazısı ve fonksiyonu değişir - tamamla/gidilecek sayfaya git - olur
