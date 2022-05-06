@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
 //!
 //* FIREABASE YI UYGULAMAYA KUR
 //! Firebase için SHA1 ve SHA256 kodunu alma
-//* android studiodan projeyi aç terminale cd android yaz sonra da cd gradlew signinReport yaz
+//* android studiodan projeyi aç terminale cd android yaz sonra da gradlew signinReport yaz
 //? https://instructivetech.com/how-to-get-sha1-key-in-flutter-for-firebase-sha-1-or-sha-256-flutter/
 
 //!
